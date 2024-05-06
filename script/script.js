@@ -45,7 +45,7 @@ document.getElementById('Boton1').addEventListener('click', () => {
             console.log(llaveCorta);
             containerContent.innerHTML = `
             <div class="logo">
-                <img src="assets/LOGO FFT.gif" alt="Logo de la empresa">
+                <img src=".assets/LOGO FFT.gif" alt="Logo de la empresa">
             </div>
             <form action="#" method="post">
                 <div class="form-group">
